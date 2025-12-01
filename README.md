@@ -48,6 +48,30 @@ All solutions are:
 
 ---
 
+```📂 Project Structure
+Data_Structure_And_Algorithm/
+│
+├── 01_Arrays
+├── 02_Strings
+├── 03_LinkedList
+├── 04_Stack
+├── 05_Queue
+├── 06_Hashing
+├── 07_Sorting
+├── 08_Searching
+├── 09_Trees
+├── 10_Graph
+├── 11_DP
+├── 12_Recursion
+├── 13_Greedy
+├── 14_Heap
+├── 15_Tries
+├── 16_Backtracking
+├── Interview_Questions
+└── README.md
+```
+
+
 ## 📊 Difficulty Progress Tracker
 
 Easy   ███████████████░░░░░░ 70%  
