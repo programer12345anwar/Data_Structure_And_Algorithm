@@ -128,6 +128,11 @@ Hard   ████████░░░░░░░░░░░░ 40%
 
 ![Leetcode](https://leetcard.jacoblin.cool/mdalam40212?theme=dark&font=Karma&ext=contest)
 
+## 🚀 My Learning Profile
+
+🔗 AccioJob: https://course.acciojob.com/profile  
+🔗 LeetCode: https://leetcode.com/mdalam40212
+
 ---
 
 ## ⚙️ Recommended IDE
