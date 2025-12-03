@@ -2,7 +2,7 @@ package com.anwar.data_structure_and_algorithm.Searching.BinarySerach;
 
 import java.util.Scanner;
 
-class First_Occurance_Last_Occurance_Impl{
+class First_Occurrence_Last_Occurrence_Impl {
     public static int first_occurance(int[] arr,int n,int target){
         int low=0,high=n-1;
         int resF=-1;
@@ -37,7 +37,7 @@ class First_Occurance_Last_Occurance_Impl{
     }
 }
 
-public class FirstOccuranceLastOccurance {
+public class FirstOccurrenceLastOccurrence {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         System.out.println("Enter Size of the array:");
@@ -51,8 +51,8 @@ public class FirstOccuranceLastOccurance {
         System.out.println("Enter key value:");
         int key=sc.nextInt();
         //call binary search alg
-        System.out.println(First_Occurance_Last_Occurance_Impl.first_occurance(arr,n,key));
-        System.out.println(First_Occurance_Last_Occurance_Impl.last_occurance(arr,n,key));
+        System.out.println(First_Occurrence_Last_Occurrence_Impl.first_occurance(arr,n,key));
+        System.out.println(First_Occurrence_Last_Occurrence_Impl.last_occurance(arr,n,key));
 
         sc.close();
     }
