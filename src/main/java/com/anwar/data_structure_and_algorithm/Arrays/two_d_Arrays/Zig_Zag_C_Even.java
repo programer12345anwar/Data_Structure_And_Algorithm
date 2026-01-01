@@ -5,6 +5,9 @@ import java.util.Scanner;
 public class Zig_Zag_C_Even {
     public static void main(String[] args) {
         //build matrix
+
+
+        System.out.println(Math.floor(5/2));
         Scanner sc=new Scanner(System.in);
         System.out.println("Enter rows and column");
         int n=sc.nextInt();
