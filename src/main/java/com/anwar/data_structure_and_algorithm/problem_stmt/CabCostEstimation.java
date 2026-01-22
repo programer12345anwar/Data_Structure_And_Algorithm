@@ -6,7 +6,7 @@ abstract class Vehicle {
     public abstract double estimatedCost(int distance);
 }
 
-// Mini implementation
+ Mini implementation
 class Mini extends Vehicle {
     public double estimatedCost(int distance) {
         if (distance > 75) {
